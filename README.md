@@ -249,7 +249,7 @@ npm run dev
 
 **Amar Raykar**  
 Full Stack Developer — MERN Stack  
-📧 raykaramar7_db_user@example.com
+📧 raykaramar7@gmail.com
 
 ---
 
